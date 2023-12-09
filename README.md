@@ -15,9 +15,7 @@ An intuitive Expense Tracker web app built with React to help you manage and tra
 - Filter and sort transactions by category or date.
 - Visualize your spending patterns with clear charts and graphs.
 
-## 🌐 Live Demo
 
-Check out the live demo [here](https://your-expense-tracker-demo.com).
 
 ## 🛠️ Installation
 
@@ -29,10 +27,6 @@ Follow these steps to run the app locally:
 4. Start the development server: `npm start`
 5. Open `http://localhost:3000` in your browser.
 
-## 📸 Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
 
 ## 📈 Future Enhancements
 
